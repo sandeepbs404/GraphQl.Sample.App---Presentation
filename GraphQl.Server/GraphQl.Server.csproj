@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>74823701-c3ca-4ab3-88ec-3bee09e7e9c9</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -9,6 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="GraphQL" Version="2.0.0-alpha-899" />
+    <PackageReference Include="GraphQL.Server.Transports.AspNetCore" Version="3.1.0-alpha0020" />
+    <PackageReference Include="GraphQL.Server.Transports.WebSockets" Version="3.1.0-alpha0020" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.6" />
   </ItemGroup>
 
