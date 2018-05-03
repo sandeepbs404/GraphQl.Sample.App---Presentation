@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQl.Server", "GraphQl.Server\GraphQl.Server.csproj", "{C2D3C3B9-8230-416B-98CD-770A6C07EBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2D3C3B9-8230-416B-98CD-770A6C07EBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D3C3B9-8230-416B-98CD-770A6C07EBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D3C3B9-8230-416B-98CD-770A6C07EBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D3C3B9-8230-416B-98CD-770A6C07EBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {458EF57F-D619-438C-85F0-52D833AE4943}
+	EndGlobalSection
+EndGlobal
